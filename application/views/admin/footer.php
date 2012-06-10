@@ -1,0 +1,1 @@
+<div id="footer">&copy; 2008-11, ERP System. Powered by <a href="http://www.innovativebd.net/" target="_blank"><img src="images/logo.gif" width="85" height="20" /></a></div>
